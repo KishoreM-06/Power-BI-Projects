@@ -70,7 +70,8 @@ Many companies face these problems:
 
 ## 🖼️ Dashboard Screenshots
 
-<img width="879" height="492" alt="Screenshot 2025-10-04 125111" src="https://github.com/user-attachments/assets/98d30a88-1fff-48fd-972d-566f9754101b" />
+<img width="876" height="491" alt="Screenshot 2025-10-04 125026" src="https://github.com/user-attachments/assets/fb270bea-2a99-430b-972f-788f225eeaf5" />
+
 
 ##
 

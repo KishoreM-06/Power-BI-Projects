@@ -26,9 +26,9 @@ A 3-page Power BI dashboard analyzing Ather EV sales, revenue, model trends, and
 ### 📎 Files Included
 
 - Dashboard screenshots  
-- Full project PDF  
+
 - Theme JSON  
-- DAX measures
+
 <img width="888" height="506" alt="Screenshot 2025-11-16 204329" src="https://github.com/user-attachments/assets/cd3a1ec6-ffcf-494a-a61a-c374fc88cc38" />
 <img width="892" height="500" alt="Screenshot 2025-11-16 204355" src="https://github.com/user-attachments/assets/d8bdb312-6e00-4f44-8e00-9e3077eaea43" />
 
